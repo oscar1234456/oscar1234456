@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar1234456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/oscar1234456/oscar1234456/19f2acd95658d6864162c452a9692e520c0fb2d1/profile-summary-card-output/dracula/0-profile-details.svg)
 
 <!--
 **oscar1234456/oscar1234456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
