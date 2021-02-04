@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/oscar1234456/oscar1234456/19f2acd95658d6864162c452a9692e520c0fb2d1/profile-summary-card-output/dracula/0-profile-details.svg)
-
+![](https://raw.githubusercontent.com/oscar1234456/oscar1234456/c1f1568259781932e21f4e41e326befd37ef396c/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/oscar1234456/oscar1234456/c1f1568259781932e21f4e41e326befd37ef396c/profile-summary-card-output/dracula/2-most-commit-language.svg)
 <!--
 **oscar1234456/oscar1234456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
